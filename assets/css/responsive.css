@@ -280,7 +280,7 @@
     }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 768px) {
     .header__cart-wrap:hover .header__cart-list {
         display: block;
         opacity: 1;
